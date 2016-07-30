@@ -1,0 +1,3 @@
+Computer:Dell:XPS 13:Almost new:1000:N
+Tablet:Samsung:Galaxy Tab 4:Refurbished:200:Y
+Phone:Apple:iphone 5:Wonderful:1500:Y
