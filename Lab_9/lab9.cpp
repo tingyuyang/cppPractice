@@ -1,4 +1,4 @@
-#include "cs162_list.h"
+#include "list.h"
 using namespace std;
 
 int main()
