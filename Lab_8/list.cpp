@@ -1,4 +1,4 @@
-#include "cs162_list.h"
+#include "list.h"
 
 
 //Implement the following functions for Lab #8
